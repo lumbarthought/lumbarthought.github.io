@@ -9,7 +9,7 @@
 locale                   : "en"
 title                    : "Lumbar Thought"
 title_separator          : "-"
-name                     : "Tom"
+name                     : "Lumbar Thought"
 description              : "Maker of stories in sound and moving pictures."
 url                      : https://lumbarthought.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -77,7 +77,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "transforms"
+  name             : "Tom"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "It's me."
   location         : "Brooklyn"
